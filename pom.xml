@@ -6,10 +6,10 @@
 
     <groupId>io.github.andyoconnor</groupId>
     <artifactId>app-store-server-library-java8</artifactId>
-    <version>3.5.0-RELEASE</version>
+    <version>3.5.1-RELEASE</version>
 
     <name>AppStoreServerLibraryJava8</name>
-    <description>AppStore服务器库Java8</description>
+    <description>苹果AppStore服务器库Java8版本</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
